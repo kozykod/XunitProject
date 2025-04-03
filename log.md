@@ -1,17 +1,17 @@
 # Daily Log
 
-## Activities during the days
+## Tasks & Topics
 
 ---
 
 ## Day 0
 
-### Quickbase registration
+### Quickbase
 * [ ] Sign in, verify mail
 * [ ] Create sample app
 * [ ] Acquire token
 
-### Quickbase domain model
+### Domain Model
 * [ ] UI tour with dev tools
 * [ ] Online Swagger
 
@@ -52,7 +52,7 @@
 * [ ] NSwag
 * [ ] MS OAS
 
-### Paths & Operations 
+### Paths
 * [ ] GET, POST, DELETE
 * [ ] Tables, Fields, Records
 * [ ] Assertions
