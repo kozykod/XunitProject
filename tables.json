@@ -1,0 +1,98 @@
+{
+  "Quickbase": [
+    {
+      "name": "Example Table #0",
+      "created": "2020-03-27T18:34:40Z",
+      "updated": "2020-04-03T19:12:40Z",
+      "alias": "_dbid_example_table_#0",
+      "description": "Table zero as an example.",
+      "id": "bpqe82s1",
+      "nextRecordId": 1,
+      "nextFieldId": 1,
+      "defaultSortFieldId": 2,
+      "defaultSortOrder": "ASC",
+      "keyFieldId": 3,
+      "singleRecordName": "Example Record",
+      "pluralRecordName": "Example Records",
+      "sizeLimit": "150 MB",
+      "spaceUsed": "17 MB",
+      "spaceRemaining": "133 MB"
+    },
+    {
+      "name": "Example Table #2",
+      "created": "2020-03-27T18:34:40Z",
+      "updated": "2020-04-03T19:12:40Z",
+      "alias": "_dbid_example_table_#2",
+      "description": "Table two as an example.",
+      "id": "bpqe82z1",
+      "nextRecordId": 10,
+      "nextFieldId": 111,
+      "defaultSortFieldId": 12,
+      "defaultSortOrder": "DESC",
+      "keyFieldId": 33,
+      "singleRecordName": "Another Record",
+      "pluralRecordName": "More Records",
+      "sizeLimit": "150 MB",
+      "spaceUsed": "22 MB",
+      "spaceRemaining": "128 MB"
+    }
+  ],
+  "date format": [
+    {
+      "name": "Example Table",
+      "created": "2020/27/03 18:34:40",
+      "updated": "2020-04-03T19:12:40Z",
+      "alias": "_dbid_example_table",
+      "description": "Table as an example.",
+      "id": "bpqe82s0",
+      "nextRecordId": 1,
+      "nextFieldId": 1,
+      "defaultSortFieldId": 2,
+      "defaultSortOrder": "ASC",
+      "keyFieldId": 3,
+      "singleRecordName": "Example Record",
+      "pluralRecordName": "Example Records",
+      "sizeLimit": "150 MB",
+      "spaceUsed": "17 MB",
+      "spaceRemaining": "133 MB"
+    }
+  ],
+  "unique": [
+    {
+      "name": "Uniques",
+      "alias": "oneandonly",
+      "description": "Table zero.",
+      "singleRecordName": "Init Record",
+      "pluralRecordName": "Init Records",
+      "sizeLimit": "5 MB"
+    }
+  ],
+  "invalid": [
+    {
+      "description": "Table with no name and alias."
+    },
+    {
+      "id": "withmyid",
+      "name": "Manual over network",
+      "alias": "post",
+      "description": "Table with no name and alias."
+    }
+  ],
+  "data type": [
+    {
+      "name": 0,
+      "alias": "post",
+      "description": "Table with different name."
+    }
+  ],
+  "local": [
+    {
+      "name": "Not yet stored",
+      "alias": "local",
+      "description": "Local table.",
+      "singleRecordName": "Init Record",
+      "pluralRecordName": "Init Records",
+      "sizeLimit": "5 MB"
+    }
+  ]
+}
